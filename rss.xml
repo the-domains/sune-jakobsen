@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Sune Jakobsen]]></title>
         <description><![CDATA[Sune Jakobsen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sune-jakobsen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 22:24:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 22:26:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sune-jakobsen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Google is working on a new operating system named Fuchsia]]></title>
+            <description><![CDATA[<article><h1>Google is working on a new operating system named Fuchsia</h1><p>Here's a puzzle: Google appears to have started work on a completely new operating system, but no one knows quite what it's for. The project's name is Fuchsia, and it currently exists as a growing pile of code on the search giant's code depository and on GitHub, too.</p><img src="https://cdn1.vox-cdn.com/thumbor/FXpqLrrEWHQSspEu3E6sMprvMLo=/0x106:2040x1254/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/50391103/Google-Pixel_C-review-6.0.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/15/12480566/google-fuchsia-new-operating-system</link>
+            <guid isPermaLink="false">4212ba14-0a4a-430a-b81d-366f2ea273a6</guid>
+            <pubDate>Wed, 17 Aug 2016 22:26:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The latest Tweets from Sune Jakobsen (@sunejakobsen). Loving (almost) everything online - doing UX, UI and frontend development for a living</p>]]></description>
