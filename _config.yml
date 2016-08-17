@@ -1,3 +1,4 @@
+layout_spectrum: 0.9428981544915587
 typography_spectrum: 0.48489753785543144
 color:
   brandStrength: 0.8945976730901748
@@ -10,7 +11,4 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.9428981544915587
 name: Sune Jakobsen
-title: Sune Jakobsen
-description: 'One man, one web, one reality...'
